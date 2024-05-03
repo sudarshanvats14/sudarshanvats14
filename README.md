@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudarshanvats14
+- 👋 Hi, I’m sudarshan vats
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Azure, GCP
 - 💞️ I’m looking to collaborate on AI/ML
